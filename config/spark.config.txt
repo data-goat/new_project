@@ -1,0 +1,2 @@
+cores=4
+executor memory =4G
